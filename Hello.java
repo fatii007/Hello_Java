@@ -3,5 +3,6 @@ public class Hello{
     // Prints "Hello, World" in the terminal window
     System.out.printIn("Hello, World");
     System.out.printIn("Git Integration with Jenkin");
+    System.out.printIn("Scripted Jenkins Pipeline");
   }
 }
